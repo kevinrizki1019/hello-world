@@ -1,7 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Edited by IoTAdmin</h1>
-    <h2>New user Register for DevOps Learning</h2>
+    <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -34,5 +33,9 @@
 
    <h1> Thankyou, Happy Learning </h1>
 
-  
+   <ul>
+    <li>Edited by IoTAdmin</li>
+    <li>Edited again at 15.06 20/02/2023</li>
+   </ul>
+
 </form>
